@@ -1,2 +1,2 @@
 # BezierDemo
-QQ拖拽清楚特效
+QQ拖拽清除特效
