@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/rander/Android/srccode/git/BezierDemo/bezier/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3be474b1b21b31cf2fa93fe6bd641ae108d96452">
+        <dex dex="/home/rander/Android/srccode/git/BezierDemo/bezier/build/intermediates/pre-dexed/debug/classes-1e865e2b822d25edbb54486f4c94100fbe4c8562.jar" />
+    </item>
+    <item
+        jar="/home/rander/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.2.1/support-annotations-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ccb693bc0774fcb637246f7360de25b4af7df318">
+        <dex dex="/home/rander/Android/srccode/git/BezierDemo/bezier/build/intermediates/pre-dexed/debug/support-annotations-23.2.1-2553c3cb38502a05ef2b7ef4abbf993afa0d5930.jar" />
+    </item>
+    <item
+        jar="/home/rander/Android/srccode/git/BezierDemo/bezier/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.2.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e4d0cbb0b999604b349062f0214a0a228a7fd151">
+        <dex dex="/home/rander/Android/srccode/git/BezierDemo/bezier/build/intermediates/pre-dexed/debug/classes-3068fa043fab5c2dcf8bf1579275277dcd6f960e.jar" />
+    </item>
+    <item
+        jar="/home/rander/Android/srccode/git/BezierDemo/bezier/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.2.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="673d77a5bbddd766037f088e775df525c46407f0">
+        <dex dex="/home/rander/Android/srccode/git/BezierDemo/bezier/build/intermediates/pre-dexed/debug/classes-c56116f4a34dbe1a189a1b134ea7a3bf668381a7.jar" />
+    </item>
+    <item
+        jar="/home/rander/Android/srccode/git/BezierDemo/bezier/build/intermediates/exploded-aar/com.android.support/support-v4/23.2.1/libs/internal_impl-23.2.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="607a3d0b8013b4ccbfeb0b7cb293351994e021fb">
+        <dex dex="/home/rander/Android/srccode/git/BezierDemo/bezier/build/intermediates/pre-dexed/debug/internal_impl-23.2.1-e5a9feb4cdf47038c1fd6d6ffebbf80b42076b8e.jar" />
+    </item>
+    <item
+        jar="/home/rander/Android/srccode/git/BezierDemo/bezier/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.2.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="3469cb457f10f74c28cbc05f069b6c894f6cbdd0">
+        <dex dex="/home/rander/Android/srccode/git/BezierDemo/bezier/build/intermediates/pre-dexed/debug/classes-3499062eb890fa39f7789ef25ed92dccc161b776.jar" />
+    </item>
+
+</items>
